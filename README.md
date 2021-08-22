@@ -17,4 +17,4 @@ After importing the data, DAMN allows different ways to visualise your data:
 4. **Scaling**: Centered distributions are scaled, i.e. their standard deviations become 1.
 5. **Distribution normalisation**: one distribution is created from all other distributions.
 
-For further information please open readme.pdf
+For further information please open DAMN.pdf
