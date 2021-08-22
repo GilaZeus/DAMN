@@ -4,7 +4,8 @@
 - tibble (>= 2.1.1),
 - dplyr (>= 0.8.0.1),
 - shiny (>= 1.6.0),
-- shinyFiles (>= 0.9.0)
+- shinyFiles (>= 0.9.0),
+- ggplot2 (>= 3.3.5)
 
 **Input**: delimited text file(s) containing four columns at least: CH1I, CH1B, CH2I, CH2B.
 
