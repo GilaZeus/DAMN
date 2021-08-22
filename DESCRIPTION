@@ -1,0 +1,25 @@
+Package: DAMN
+Title: DAMN: Drawn Array’s Multistep Normalisation
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rustam",
+           family = "Gilyazev",
+           role = c("aut", "cre"),
+           email = "rustam.gilyazev@th-bingen.de",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Visualisation of  expressions of spots in 2-channel microarrays (or any other type of two-channel data).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+        tibble (>= 2.1.1),
+        dplyr (>= 0.8.0.1),
+        shiny (>= 1.6.0),
+        shinyFiles (>= 0.9.0)
+Suggests: 
+    rmarkdown,
+    knitr
+VignetteBuilder: knitr
