@@ -26,7 +26,7 @@ ui <- shiny::fluidPage(
       )
     ),
     shiny::mainPanel(
-      shiny::h2("Bar chart(s)", align = "center"),
+      shiny::h2("Box plot(s)", align = "center"),
       shiny::plotOutput("barchart"))
   )
 )
